@@ -1,3 +1,3 @@
-Mens-Sana
+Dizwix's boilerplate
 =========
-wow
+generally recognized as safe
